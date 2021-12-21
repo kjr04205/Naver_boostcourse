@@ -13,6 +13,5 @@ public class Baekjoon_10869 {
 		System.out.println(a/b);
 		System.out.println(a%b);
 		
-		// git test
 	}
 }
