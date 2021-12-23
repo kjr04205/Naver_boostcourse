@@ -13,6 +13,8 @@ public class Baekjoon_2609 {
 		
 		System.out.println(gcdNum);
 		System.out.println(lcmNum);
+		
+		
 	}
 	private static int getGcd(int a, int b) {
 		while(b != 0) {
