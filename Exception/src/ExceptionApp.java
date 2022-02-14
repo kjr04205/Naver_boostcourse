@@ -6,7 +6,7 @@ public class ExceptionApp {
 		
 		int[] scores = {10,20,30};
 		
-		//Exception
+		//Exception 으로 예외처리 할 경우 모든 예외처리의 부모, 하위 catch문들 오류
 		try {
 			System.out.println(2);
 			System.out.println(scores[4]);
